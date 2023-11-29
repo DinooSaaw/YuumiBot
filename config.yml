@@ -1,0 +1,25 @@
+# config.yml
+
+# Key bindings
+keys:
+  cast_q: 'Q'
+  cast_w: 'W'
+  cast_e: 'E'
+  cast_r: 'R'
+
+# Skill priorities
+skill_priorities:
+  q_priority: 2
+  w_priority: 1
+  e_priority: 3
+  r_priority: 4
+
+# Game settings
+game:
+  username: 'SUMMONERNAME'
+  screen_resolution:
+    width: 1920
+    height: 1080
+
+
+api_key: 'your_api_key_here'
