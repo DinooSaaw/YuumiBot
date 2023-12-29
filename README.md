@@ -14,35 +14,6 @@ This project implements an AI-powered Yuumi Bot for League of Legends, designed 
 
 - ~~**Customization:** The bot is customizable, allowing users to configure its behavior, skill priorities, and other settings to suit their playstyle.~~
 
-## Prerequisites
-
-- [League of Legends](https://oce.leagueoflegends.com/) installed on your system.
-- Python 3.6 or later.
-- Required Python packages (specified in `requirements.txt`).
-
-  
-
-## Setup
-
-  
-
-1. Clone the repository:
-
-  
-
-```bash
-git clone https://github.com/DinooSaaw/YuumiBot.git
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Configure your League of Legends client and API key.
-
-4. Run the bot:
-
 ## Configuration
 
 Adjust the bot's configuration by modifying the settings in `config.yml`. Customize the key bindings, skill priorities, and other parameters to match your preferences.
